@@ -1,0 +1,19 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+main {
+    background-image: url(https://c.tenor.com/_Gkz-2OJRrUAAAAd/pokemon-nintendo.gif);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #000000 ;   
+   
+}
+
+.pokedex {
+    display: flex;
+    gap: 30px;
+    padding: 30px 0;
+}
