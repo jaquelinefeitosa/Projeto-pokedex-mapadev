@@ -8,8 +8,8 @@ main {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #000000 ;   
-   
+    background-color: #000000;   
+    background-size: 50%;
 }
 
 .pokedex {
